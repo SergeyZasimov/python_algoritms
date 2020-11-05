@@ -9,6 +9,9 @@
 import sys
 import operator
 
+
+# https://drive.google.com/file/d/1TsMBziDQxiqSa1YGgOAD_XHQh-4HuY6r/view?usp=sharing
+
 print('Простой калькулятор\n0 в качестве знака операции - выход')
 
 try:
